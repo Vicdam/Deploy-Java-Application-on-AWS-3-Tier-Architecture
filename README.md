@@ -1,6 +1,6 @@
 # Deploy-Java-Application-on-AWS-3-Tier-Architecture
 
-
+https://raw.githubusercontent.com/Vicdam/Deploy-Java-Application-on-AWS-3-Tier-Architecture/main/3-Tier-Architecture.jpeg
 
 Goal
 Goal of this project is to deploy scalable, highly available and secured Java application on 3-tier architecture and provide application access to the end users from public internet.
